@@ -1,7 +1,7 @@
 # Smart Check-In: Enhancing College Bus Attendance with RFID
 
 <p align="center">
-  <img src="images/banner.png" alt="Smart Check-In Banner" width="100%">
+  <img src="images/hardware-setup.jpg" alt="Smart Check-In Prototype" width="100%">
 </p>
 
 <p align="center">
@@ -342,7 +342,6 @@ Smart-checkin-rfid-attendance-system/
 │   └── Documentation.pdf      # Placeholder
 │
 ├── images/
-│   ├── banner.png
 │   ├── logo.png
 │   ├── block-diagram.png
 │   ├── block-diagram-existing.png
